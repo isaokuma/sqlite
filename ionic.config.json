@@ -1,0 +1,7 @@
+{
+  "name": "testeSQLITE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
